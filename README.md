@@ -1,5 +1,4 @@
-# Python Challenge
-## PyBank
+# Analysis of Pybank Data
 
 ### In this challenge, I was tasked with creating a Python script for analyzing the financial records of my company. I reviewed a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, the company has rather lax standards for accounting so the records are simple.) I've created a Python script that analyzes the records to calculate each of the following:
 
@@ -14,7 +13,7 @@
 - The greatest decrease in profits (date and amount) over the entire period
 
 
-## PyPoll
+## Analysis of Poll data
 
 ### In this challenge, i've been tasked with helping a small, rural town modernize its vote counting process. I reviewed a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. I created a Python script that analyzes the votes and calculates each of the following:
 
